@@ -10,9 +10,10 @@ body{
     height: 100vh;
 }
 .container .header{
-    margin: auto;
     text-align: center;
     width: 500px;
+    margin: 0 auto;
+    padding-top: 10px;
 }
 .container .header h1{
     color: hsl(234, 12%, 34%)
